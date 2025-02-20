@@ -10,4 +10,4 @@ go build -ldflags "-H=windowsgui"
 
 ### 示例
 
-![](C:\Users\Mek\GolandProjects\JpgToWebp-GUI\images\1.JPG)
+![](\images\1.JPG)
